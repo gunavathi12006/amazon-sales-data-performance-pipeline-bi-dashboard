@@ -1,5 +1,3 @@
-amazon-sales-data-performance-pipeline-bi-dashboard
-
 📊 Amazon E-Commerce Sales Performance Analytics - Power BI Dashboard
 
 An interactive Business Intelligence dashboard designed in Power BI to analyze the Amazon e-commerce product pricing trajectories, inventory distribution, and performance metrics.
